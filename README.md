@@ -1,4 +1,22 @@
+[Based on this tutorial](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822).
+
+## Four ways to style react components
+
+![chrome_2019-05-24_14-49-02](https://user-images.githubusercontent.com/20374208/58325666-2292f900-7e33-11e9-923f-a79487924a6c.png)
+
+
+## 1. CSS Stylesheet
+## 2. Inline styling
+## 3. CSS Modules
+## 4. Styled-components
+
+Check this folder for all the examples :) => [click here](https://github.com/goxr3plus/react-style-tutorial/tree/master/src/containers/expert)
+
+
+----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
