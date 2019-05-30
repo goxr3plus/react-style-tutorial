@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "./Expert.css";
 import styled from "styled-components";
+import expert from "./Expert.module.css"
 
 /* Inline Style */
 const pStyle = {
@@ -30,10 +31,15 @@ class Expert extends Component {
         <div style={pStyle}> HALLO INLINE</div>
         {/*  Inline Style 2  */}
         <div style={{ textAlign: "center", color: "pink", fontSize: "45px" }}>  HALLO INLINE PINK{" "}</div>
+        <hr></hr>
         {/* External StyleSheet  */}
         <div className="pStyle"> HALLO CSS STYLESEET </div>
+        <hr></hr>
         {/* Styled Components */}
         <Div> <Paragraph>Get started with styled-components 💅</Paragraph></Div>
+        <hr></hr>
+        {/* CSS Modules */}
+        <div className={expert.pStyle}> CSS MODULE CSS </div>
       </>
     );
   }
