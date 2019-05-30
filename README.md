@@ -2,8 +2,7 @@
 
 ## Four ways to style react components
 
-![chrome_2019-05-24_14-49-02](https://user-images.githubusercontent.com/20374208/58325666-2292f900-7e33-11e9-923f-a79487924a6c.png)
-
+![chrome_2019-05-30_14-03-12](https://user-images.githubusercontent.com/20374208/58628932-b2c5b800-82e3-11e9-9697-168f2fe6d6ce.png)
 
 ## 1. CSS Stylesheet
 ## 2. Inline styling
